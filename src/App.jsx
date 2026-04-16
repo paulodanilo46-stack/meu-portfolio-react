@@ -10,6 +10,7 @@ function App() {
 
       <section id="sobre">
         <h2>Sobre mim</h2>
+        <img src="/perfil.jpeg" className="foto-perfil" />
         <p>Sou estudante de desenvolvimento web e estou aprendendo HTML, CSS e JavaScript.</p>
       </section>
       <Projetos />
